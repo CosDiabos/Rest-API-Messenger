@@ -19,7 +19,7 @@ Back-end
 
 The API uses MySQL as database engine, which is necessary to run it out-of-the-box. The DB schema needed for the API is in the [DB-Schema.sql](DB-Schema.sql) file. When run, it creates the DB and required tables. No mock data is inserted.
 
-Edit the config files inside the [config](config/) folder with the connection info for the MySQL server.
+Edit the config files inside the [config](config/) folder with the connection info for the MySQL server and rename them to remove the ```-sample``` part.
 
 Install all dependencies in the repo root folder with ```npm install```.
 
