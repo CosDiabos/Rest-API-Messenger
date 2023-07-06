@@ -85,7 +85,6 @@ These are the relations among the several tables that store this information.
 
 - Each user may have as many sessions as they want.
 - Each conversation (chat) may have as many users as desired. Two users (or participants) should be considered as a 1-to-1 chat, more than two users should be considered as a group conversation.
-- This i
 
 
 ## Known limitations
